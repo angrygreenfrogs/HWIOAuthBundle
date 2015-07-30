@@ -27,6 +27,7 @@ This bundle contains support for 40 different providers:
 * JIRA,
 * LinkedIn,
 * Mail.ru
+* MapMyRun
 * Odnoklassniki,
 * PayPal,
 * QQ,
