@@ -48,6 +48,7 @@ class Configuration implements ConfigurationInterface
             'instagram',
             'linkedin',
             'mailru',
+            'mapmyrun',
             'odnoklassniki',
             'paypal',
             'qq',

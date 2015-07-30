@@ -54,6 +54,7 @@ hwi_oauth:
 - [Jira](resource_owners/jira.md)
 - [Linkedin](resource_owners/linkedin.md)
 - [Mail.ru](resource_owners/mailru.md)
+- [MapMyRun](resource_owners/mapmyrun.md)
 - [Odnoklassniki](resource_owners/odnoklassniki.md)
 - [PayPal](resource_owners/paypal.md)
 - [QQ](resource_owners/qq.md)
